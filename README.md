@@ -1,6 +1,9 @@
 # 3D-Computer-Vision-Summer-School-IIITH
 In this repository I have compiled all the resources provided during 3D computer Vision Summer School.
 
+## Resources
+https://docs.google.com/document/d/1DBVyMcmhcRkYl_kZEEV2_FYjlw7HjTIzIuGw_1pYesg/edit# 
+
 ## Desciption
 ### Day1
 1. Basics of Image Processing 
@@ -26,6 +29,13 @@ In this repository I have compiled all the resources provided during 3D computer
 2. Open3D
 3. PyMeshLab
 https://towardsdatascience.com/what-are-intrinsic-and-extrinsic-camera-parameters-in-computer-vision-7071b72fb8ec
+
+### Day5
+1. http://www.cs.cmu.edu/~ILIM/projects/IM/TesseTrack/ 
+
+### Day6
+
+### Day7
 
 
 ## Remarks
